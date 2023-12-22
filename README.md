@@ -20,7 +20,7 @@ For system requirements, [Check Laravel Requirement](https://laravel.com/docs/9.
 
 ## Clone the repository from github.
 
-    > git clone https://github.com/angkosal/laravel-pos.git [YourDirectoryName]
+    > git clone https://github.com/howLonghasThisBin/Machine_Learning_2023 [YourDirectoryName]
 
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
